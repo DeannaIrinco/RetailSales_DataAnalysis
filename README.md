@@ -3,12 +3,11 @@
 ## Project Summary
 Analyzed retail sales data using SQL (MySQL), Microdoft Excel (data preparation), and Tableau Public to uncover revenue drivers, customer segmentation opportunities, and seasonal planning insights. This project demonstrates how structured analysis turns transactional data into specific business recommendations for inventory, marketing, and capacity planning.
 
-Dataset: [Retail Sales Dataset by Mohammad Talib](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset)
+**Dataset:** [Retail Sales Dataset by Mohammad Talib](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset)
 
-Skills: SQL aggregation, data validation, business interpretation
+**Tableau Public Interactive Visualization:** [Retail Sales Analysis Dashboard](https://public.tableau.com/app/profile/deanna.irinco/viz/RetailSalesPerformanceDashboard_17719788524440/RetailSalesPerformanceDashboard)
 
-Tableau Public Interactive Visualization: [Retail Sales Analysis Dashboard](https://public.tableau.com/app/profile/deanna.irinco/viz/RetailSalesPerformanceDashboard_17719788524440/RetailSalesPerformanceDashboard)
-
+Skills: SQL aggregation, data validation, data visualization, business interpretation
 
 ## Data Preparation
 
@@ -144,12 +143,13 @@ The original dataset from Kaggle was already clean. The following steps were per
   
 5. **Inventory & Capacity Planning**
 
-<img width="650" height="237" alt="Screenshot 2026-03-04 at 3 56 03 PM" src="https://github.com/user-attachments/assets/b861461b-4c08-4eee-ac7a-7b980d4a5a7f" />
+<img width="551" height="236" alt="Screenshot 2026-03-04 at 10 29 51 PM" src="https://github.com/user-attachments/assets/d3a1e36a-f35e-49c2-8bfd-07615317084b" />
+
    
    _Source: Query 4 & 5_
 
 # Future Analysis Opportunities
-**With more data and time, I would explore the following:**
+**With more data/time, I would further explore the following:**
 1. **Marketing**
    - Compare revenue before and after discount periods
    - Online and in-store revenue patterns
