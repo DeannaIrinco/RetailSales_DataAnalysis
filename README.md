@@ -148,7 +148,8 @@ The original dataset from Kaggle was already clean. The following steps were per
    
    _Source: Query 4 & 5_
 
-# Future Analysis Opportunities
+## **Future Analysis Opportunities**
+
 **With more data, I would further explore the following:**
 1. **Marketing**
    - Compare revenue before and after discount periods
