@@ -1,7 +1,7 @@
 # Retail Sales Analysis
 
 ## Project Summary
-Analyzed retail sales data using SQL (MySQL), Microdoft Excel (data preparation), and Tableau Public to uncover revenue drivers, customer segmentation opportunities, and seasonal planning insights. This project demonstrates how structured analysis turns transactional data into specific business recommendations for inventory, marketing, and capacity planning.
+Analyzed retail sales data using SQL (MySQL), Microsoft Excel (data preparation), and Tableau Public to uncover revenue drivers, customer segmentation opportunities, and seasonal planning insights. This project demonstrates how structured analysis turns transactional data into specific business recommendations for inventory, marketing, and capacity planning.
 
 **Dataset:** [Retail Sales Dataset by Mohammad Talib](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset)
 
@@ -46,7 +46,7 @@ The original dataset from Kaggle was already clean. The following steps were per
 **Insight:**
 - **Electronics** lead the market with the highest total revenue
 - **Clothing** is close behind. This is another core driver of income
-- **Beauty** contributes slightly less but still remains a valuable part revenue
+- **Beauty** contributes slightly less but still remains a valuable part of overall revenue
 - Electronics ($156K) and Clothing ($155K) are nearly tied. This is a 0.8% revenue gap despite different customer profiles. Beauty ($143K) trails but still contributes 31% of total sales. No single category dominates sales, this suggests that there is a stable demand across categories.
 
 
