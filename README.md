@@ -47,7 +47,7 @@ The original dataset from Kaggle was already clean. The following steps were per
 - **Electronics** lead the market with the highest total revenue
 - **Clothing** is close behind. This is another core driver of income
 - **Beauty** contributes slightly less but still remains a valuable part revenue
-- Electronics ($156K) and Clothing ($155K) are nearly tied. This is a 0.8% revenue gap despite different customer profiles. Beauty ($143K) trails but still contributes 31% of total sales. This near-perfect balance (no category >34% of revenue) indicates diversified demand. This reduces risk from category-specific downturns.
+- Electronics ($156K) and Clothing ($155K) are nearly tied. This is a 0.8% revenue gap despite different customer profiles. Beauty ($143K) trails but still contributes 31% of total sales. No single category dominates sales, this suggests that there is a stable demand across categories.
 
 
 ## **Query 2**
@@ -64,7 +64,7 @@ The original dataset from Kaggle was already clean. The following steps were per
 - **Females**: Spend most on Clothing, followed by Electronics
 - **Males**: Spend most on Electronics, followed by Clothing
 - Both genders spend similar amounts across all three categories, showing that neither gender focuses on only one type of product
-- The equal total contribution despite preference differences suggests that there is broad cross-gender appeal. This is ideal for bundled promotions.
+- The similar total revenue from males and females suggests that cross-gender promotions could potentially work, such as promotional bundles that include both Electronics and Clothing.
 
 
 ## **Query 3**
@@ -98,7 +98,7 @@ The original dataset from Kaggle was already clean. The following steps were per
 **Insight:**
 - **Highest month:** May (Q2), followed by October–December (Q4).
 - **Lowest months:** March and September.
-- **May ($53K) beats even December.** There is an unexpected Q2 peak suggesting untapped spring campaign potential. October-December confirm holiday strength, while March/September lag. Two distinct peaks (not just holiday) enable year-round planning
+- **May ($53K) beats even December.** There is an unexpected Q2 peak suggesting that there is an untapped spring campaign potential. October-December confirm holiday strength, while March/September lag. Two distinct peaks (not just holiday) enable year-round planning
 
 
 ## **Query 5**
@@ -130,7 +130,7 @@ The original dataset from Kaggle was already clean. The following steps were per
 
 
 
-3. **Customer Segmentation Strategy**
+2. **Customer Segmentation Strategy**
 
   High Potential Targets
   
@@ -141,7 +141,7 @@ The original dataset from Kaggle was already clean. The following steps were per
 
 
   
-5. **Inventory & Capacity Planning**
+3. **Inventory & Capacity Planning**
 
 <img width="551" height="236" alt="Screenshot 2026-03-04 at 10 29 51 PM" src="https://github.com/user-attachments/assets/d3a1e36a-f35e-49c2-8bfd-07615317084b" />
 
@@ -149,7 +149,7 @@ The original dataset from Kaggle was already clean. The following steps were per
    _Source: Query 4 & 5_
 
 # Future Analysis Opportunities
-**With more data/time, I would further explore the following:**
+**With more data, I would further explore the following:**
 1. **Marketing**
    - Compare revenue before and after discount periods
    - Online and in-store revenue patterns
